@@ -159,7 +159,7 @@ nav {
 }
 
 .project-container {
-    height:2500px;
+    height:1400px;
     display: flex;
     flex-direction: column;
     padding-left: 8vw;
@@ -182,7 +182,7 @@ nav {
     height:215px;
     display: inline-block;
     border-radius: 8px;
-    margin: 15px 10px;
+    margin: 15px 15px;
     box-shadow: 1px 3px 10px #666666;
 }
 
